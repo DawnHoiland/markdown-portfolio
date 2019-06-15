@@ -1,1 +1,1 @@
-(My Github portfolio... bask in it's glory!)[https://github.com/DawnHoiland]
+(My Github portfolio. bask in it's glory!)[https://github.com/DawnHoiland]
